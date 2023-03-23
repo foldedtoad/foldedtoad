@@ -4,4 +4,4 @@
 [blogspot][blogspot] **/**
 
 [youtube]: https://youtube.com/foldedtoad
-[blogspot]: https://foldedtoadfroth/blogspot.com
+[blogspot]: https://foldedtoadfroth.blogspot.com
